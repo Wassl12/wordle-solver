@@ -1,0 +1,12 @@
+.box {
+    margin: 10px;
+}
+
+.input {
+    background: transparent;
+    border: transparent;
+    justify-content: center;
+    display: grid;
+    text-align: center;
+    outline: none;
+}
